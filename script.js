@@ -9,15 +9,15 @@ answers = [];
 imgs = [];
 
 //the questions
-addQuestion("trouve l'air de ce trapèze. (en cm^2)", "30.315cm^2", "images/trapèze1.png");
+addQuestion("trouve l'air de ce trapèze. (en cm^2)", "30.315cm^2", "images/trapeze1.png");
 addQuestion("trouve l'air de ce rectangle.", "23.78m^2", "images/rectangle.png");
 addQuestion("trouve l'air de ce cercle.", "37.6991118431dm^2", "images/cercle.png");
 addQuestion("trouve le pérmimètre de ce triangle.", "18.9mm^2", "images/triangle1.png");
 addQuestion("trouve l'air de ce polygone régulier.", "83.25m^2", "images/polygone regulier.png");
 addQuestion("trouve l'air de ce triangle", "31.8km^2", "images/triangle2.png");
 addQuestion("trouve l'air de ce losange.", "210.8cm^2", "images/losange.png");
-addQuestion("trouve l'air de ce polygone régulier.", "74.175dm^2", "images/polygone régulier2.png");
-addQuestion("trouve l'air de Parallélogramme.", "182dam^2", "images/paralléogramme.png");
+addQuestion("trouve l'air de ce polygone régulier.", "74.175dm^2", "images/polygone regulier2.png");
+addQuestion("trouve l'air de Parallélogramme.", "182dam^2", "images/paralleogramme.png");
 
 
 
