@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="script.js" defer></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quiz sur l'air</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="icon" type="image/x-icon" href="https://cdn-icons-png.freepik.com/256/3471/3471391.png?semt=ais_hybrid">
+</head>
+<body>
+
+
+
+<main>
+
+    <div class="quiz" id="startQuizDiv">
+
+        <h2>quiz sur l'air</h2>
+
+        <button id="startButton">commencer</button>
+    </div>
+
+
+    <div class="quiz" action="" method="post" style="display: none;" id="quiz">
+        <h2>Question</h2>
+        <output id="Title">error</output><br/>
+        <img id="questionImg" src="" alt="html"><br/>
+        
+        <input class="input" id="AnswerInp" type="text" placeholder="entrer votre réponse ici" style="width: 200px;">
+        <br/>
+        <button id="checkAnswerButton">valider</button>
+        
+        <output id="questionReslut"></output>
+        <button id="nextQuestionButton" style="display: none;">suivant</button>
+    </div>
+</main>
+
+</body>
+</html>
